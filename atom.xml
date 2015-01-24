@@ -4,7 +4,7 @@
   <title><![CDATA[My cool website]]></title>
   <link href="http://kimber409.github.io/atom.xml" rel="self"/>
   <link href="http://kimber409.github.io/"/>
-  <updated>2015-01-24T17:00:32+00:00</updated>
+  <updated>2015-01-24T20:14:23+00:00</updated>
   <id>http://kimber409.github.io/</id>
   <author>
     <name><![CDATA[Oliver Kimber]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[whrite enderman]]></title>
+    <link href="http://kimber409.github.io/blog/2015/01/24/whrite-enderman/"/>
+    <updated>2015-01-24T20:11:45+00:00</updated>
+    <id>http://kimber409.github.io/blog/2015/01/24/whrite-enderman</id>
+    <content type="html"><![CDATA[<p>Minecraft whrite enderman</p>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/SGuCGYV6Fvw" frameborder="0" allowfullscreen></iframe>
+
+
+<p>coolest video ever</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Byword]]></title>
