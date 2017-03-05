@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My cool website]]></title>
+  <link href="http://kimber409.github.io/atom.xml" rel="self"/>
+  <link href="http://kimber409.github.io/"/>
+  <updated>2015-01-24T20:14:23+00:00</updated>
+  <id>http://kimber409.github.io/</id>
+  <author>
+    <name><![CDATA[Oliver Kimber]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[whrite enderman]]></title>
+    <link href="http://kimber409.github.io/blog/2015/01/24/whrite-enderman/"/>
+    <updated>2015-01-24T20:11:45+00:00</updated>
+    <id>http://kimber409.github.io/blog/2015/01/24/whrite-enderman</id>
+    <content type="html"><![CDATA[<p>Minecraft whrite enderman</p>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/SGuCGYV6Fvw" frameborder="0" allowfullscreen></iframe>
+
+
+<p>coolest video ever</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Byword]]></title>
+    <link href="http://kimber409.github.io/blog/2015/01/24/byword-slash/"/>
+    <updated>2015-01-24T13:27:17+00:00</updated>
+    <id>http://kimber409.github.io/blog/2015/01/24/byword-slash</id>
+    <content type="html"><![CDATA[<p>On Byword i found a way to make every thing come clear.So what you do <code>alt-cmd-p</code>. Its as easy as turning on your computer.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Game]]></title>
+    <link href="http://kimber409.github.io/blog/2014/11/15/first-blog/"/>
+    <updated>2014-11-15T21:24:28+00:00</updated>
+    <id>http://kimber409.github.io/blog/2014/11/15/first-blog</id>
+    <content type="html"><![CDATA[<p>My Game name i will not tell you yet only when i have done it.</p>
+]]></content>
+  </entry>
+  
+</feed>
