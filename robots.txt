@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://kimber409.k3r.me/sitemap.xml 
